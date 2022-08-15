@@ -1,0 +1,6 @@
+def my_num():
+    num = ['611388517']
+    def country_cod():
+        num.append('+34')
+    return country_cod()
+
